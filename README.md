@@ -1,6 +1,6 @@
 ### Hi 🫶 I'm Clara 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/H7CKd1GO6oiZQo7L5d/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/H7CKd1GO6oiZQo7L5d/giphy.gif" width="200"/>
 </div>
 
 About Me
